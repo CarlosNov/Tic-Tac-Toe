@@ -135,7 +135,7 @@ public class DobleTest
     }
 
     @Test
-    public void Player1WinTest()
+    public void Player1WinsTest()
     {
         /*
             X O O   1º 2º 8º
@@ -166,7 +166,7 @@ public class DobleTest
     }
 
     @Test
-    public void Player2WinTest()
+    public void Player2WinsTest()
     {
         /*
             O X     2º 1º
