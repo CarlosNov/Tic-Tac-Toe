@@ -35,7 +35,7 @@ public class TicTacToeGame {
 		Object data;
 	}
 
-	private List<Connection> connections = new CopyOnWriteArrayList<>();
+	public List<Connection> connections = new CopyOnWriteArrayList<>();
 	private List<Player> players = new CopyOnWriteArrayList<>();
 	private Board board = new Board();
 
