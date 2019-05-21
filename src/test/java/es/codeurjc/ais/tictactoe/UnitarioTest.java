@@ -1,7 +1,5 @@
 package es.codeurjc.ais.tictactoe;
 
-import es.codeurjc.ais.tictactoe.Board;
-import es.codeurjc.ais.tictactoe.TicTacToeGame;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
