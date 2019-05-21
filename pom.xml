@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>es.codeurjc.ais</groupId>
-	<artifactId>tic-tac-toe-enunciado</artifactId>
+	<artifactId>Calos_Novella_Gomez.Alejandro_Quesada_Mendo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
@@ -75,6 +75,17 @@
 			<artifactId>selenium-support</artifactId>
 			<version>3.141.59</version>
 		</dependency>
-	</dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.assertj</groupId>
+            <artifactId>assertj-core</artifactId>
+            <version>3.11.1</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 
 </project>

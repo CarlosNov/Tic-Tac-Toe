@@ -1,42 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22d5c996-c7f1-4c11-bf95-01b7218bf1b6" name="Default Changelist" comment="Test Sistema">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_3_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_rauschig_jarchivelib_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/es/codeurjc/ais/tictactoe/SistemaTest.java" afterDir="false" />
+    <list default="true" id="22d5c996-c7f1-4c11-bf95-01b7218bf1b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/es/codeurjc/ais/tictactoe/UnitarioTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/es/codeurjc/ais/tictactoe/DobleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/es/codeurjc/ais/tictactoe/DobleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/codeurjc/ais/tictactoe/TicTacToeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/codeurjc/ais/tictactoe/TicTacToeGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tic-tac-toe-enunciado.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tic-tac-toe-enunciado.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,26 +23,27 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/es/codeurjc/ais/tictactoe/Board.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-              <folding>
-                <element signature="e#513#514#0" expanded="true" />
-                <element signature="e#544#545#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/test/java/es/codeurjc/ais/tictactoe/UnitarioTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            <state relative-caret-position="319">
+              <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#parameters#0;class#UnitarioTest#0" />
+                <element signature="method#init#0;class#UnitarioTest#0" />
+                <element signature="method#player1WinsTest#0;class#UnitarioTest#0" />
+                <element signature="method#player2WinsTest#0;class#UnitarioTest#0" />
+                <element signature="method#checkDraw#0;class#UnitarioTest#0" />
+                <element signature="method#given#0;class#UnitarioTest#0" />
+                <element signature="method#when#0;class#UnitarioTest#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,25 +51,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/es/codeurjc/ais/tictactoe/SistemaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="167" column="28" selection-start-line="167" selection-start-column="28" selection-end-line="167" selection-end-column="28" />
+            <state relative-caret-position="1071">
+              <caret line="114" column="9" selection-start-line="114" selection-start-column="9" selection-end-line="114" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#setupClass#0;class#SistemaTest#0" />
-                <element signature="method#setupTest#0;class#SistemaTest#0" />
-                <element signature="method#teardown#0;class#SistemaTest#0" />
-                <element signature="method#initWebApp#0;class#SistemaTest#0" />
-                <element signature="method#checkResult#0;class#SistemaTest#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/es/codeurjc/ais/tictactoe/Connection.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-136">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="1701">
+              <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/es/codeurjc/ais/tictactoe/DobleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2331">
+              <caret line="124" column="76" selection-start-line="123" selection-start-column="16" selection-end-line="124" selection-end-column="76" />
             </state>
           </provider>
         </entry>
@@ -99,12 +81,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/es/codeurjc/ais/tictactoe/TicTacToeGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="34" selection-start-column="34" selection-end-column="34" />
+            <state relative-caret-position="210">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
               <folding>
-                <element signature="e#2977#2978#0" expanded="true" />
-                <element signature="e#3016#3017#0" expanded="true" />
+                <element signature="method#addPlayer#0;class#TicTacToeGame#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/es/codeurjc/ais/tictactoe/Board.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="36" column="41" selection-start-line="35" selection-start-column="33" selection-end-line="36" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/es/codeurjc/ais/tictactoe/TicTacToeHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="107" column="28" selection-start-line="107" selection-start-column="28" selection-end-line="107" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/es/codeurjc/ais/tictactoe/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="51" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/es/codeurjc/ais/tictactoe/WebApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -125,21 +142,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/Doble1Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/DobleTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/es/codeurjc/ais/tictactoe/TicTacToeGame.java" />
-        <option value="$PROJECT_DIR$/src/test/java/es/codeurjc/ais/tictactoe/DobleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/es/codeurjc/ais/tictactoe/Board.java" />
         <option value="$PROJECT_DIR$/src/test/java/es/codeurjc/ais/tictactoe/SistemaTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/UnitarioTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/es/codeurjc/ais/tictactoe/UnitarioTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/es/codeurjc/ais/tictactoe/TicTacToeGame.java" />
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="alwaysUpdateSnapshots" value="true" />
-      </MavenGeneralSettings>
-    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
@@ -147,18 +159,17 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="734" />
-    <option name="height" value="867" />
+    <option name="x" value="1040" />
+    <option name="width" value="1527" />
+    <option name="height" value="1047" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,27 +231,22 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558470855116" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="es.codeurjc.ais.tictactoe" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\novel\Projects\Practica2AIS" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -255,60 +261,63 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SistemaTest">
-    <configuration name="DobleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.UnitarioTest">
+    <configuration name="UnitarioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tic-tac-toe-enunciado" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="es.codeurjc.ais.tictactoe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="PACKAGE_NAME" value="es.codeurjc.ais.tictactoe" />
-      <option name="MAIN_CLASS_NAME" value="es.codeurjc.ais.tictactoe.DobleTest" />
+      <option name="MAIN_CLASS_NAME" value="es.codeurjc.ais.tictactoe.UnitarioTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SistemaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UnitarioTest.checkDraw" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tic-tac-toe-enunciado" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="es.codeurjc.ais.tictactoe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="PACKAGE_NAME" value="es.codeurjc.ais.tictactoe" />
-      <option name="MAIN_CLASS_NAME" value="es.codeurjc.ais.tictactoe.SistemaTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="es.codeurjc.ais.tictactoe.UnitarioTest" />
+      <option name="METHOD_NAME" value="checkDraw" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="UnitarioTest.player1WinsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tic-tac-toe-enunciado" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="es.codeurjc.ais.tictactoe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="es.codeurjc.ais.tictactoe.WebApp" />
+      <option name="PACKAGE_NAME" value="es.codeurjc.ais.tictactoe" />
+      <option name="MAIN_CLASS_NAME" value="es.codeurjc.ais.tictactoe.UnitarioTest" />
+      <option name="METHOD_NAME" value="player1WinsTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="JUnit.DobleTest" />
-      <item itemvalue="JUnit.SistemaTest" />
-      <item itemvalue="Spring Boot.WebApp" />
-    </list>
+    <configuration name="UnitarioTest.player2WinsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tic-tac-toe-enunciado" />
+      <option name="PACKAGE_NAME" value="es.codeurjc.ais.tictactoe" />
+      <option name="MAIN_CLASS_NAME" value="es.codeurjc.ais.tictactoe.UnitarioTest" />
+      <option name="METHOD_NAME" value="player2WinsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitarioTest.primerJugadorEnMoverGana" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tic-tac-toe-enunciado" />
+      <option name="PACKAGE_NAME" value="es.codeurjc.ais.tictactoe" />
+      <option name="MAIN_CLASS_NAME" value="es.codeurjc.ais.tictactoe.UnitarioTest" />
+      <option name="METHOD_NAME" value="primerJugadorEnMoverGana" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SistemaTest" />
-        <item itemvalue="Spring Boot.WebApp" />
-        <item itemvalue="JUnit.DobleTest" />
+        <item itemvalue="JUnit.UnitarioTest" />
+        <item itemvalue="JUnit.UnitarioTest.checkDraw" />
+        <item itemvalue="JUnit.UnitarioTest.player2WinsTest" />
+        <item itemvalue="JUnit.UnitarioTest.player1WinsTest" />
+        <item itemvalue="JUnit.UnitarioTest.primerJugadorEnMoverGana" />
       </list>
     </recent_temporary>
   </component>
@@ -323,57 +332,50 @@
       <option name="presentableId" value="Default" />
       <updated>1558442260786</updated>
       <workItem from="1558442263104" duration="25000" />
-      <workItem from="1558442840199" duration="24372000" />
+      <workItem from="1558443650149" duration="18709000" />
     </task>
-    <task id="LOCAL-00001" summary="Test Dobles">
-      <created>1558463029997</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1558463029997</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SistemaTest - 2019.05.21 at 21h 50m 12s.xml">
-      <configuration name="SistemaTest" configurationId="JUnit" />
+    <history-entry file="UnitarioTest_player2WinsTest - 2019.05.21 at 23h 17m 35s.xml">
+      <configuration name="UnitarioTest.player2WinsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SistemaTest - 2019.05.21 at 21h 52m 34s.xml">
-      <configuration name="SistemaTest" configurationId="JUnit" />
+    <history-entry file="UnitarioTest_player2WinsTest - 2019.05.21 at 23h 19m 25s.xml">
+      <configuration name="UnitarioTest.player2WinsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SistemaTest - 2019.05.21 at 21h 56m 24s.xml">
-      <configuration name="SistemaTest" configurationId="JUnit" />
+    <history-entry file="UnitarioTest_player2WinsTest - 2019.05.21 at 23h 23m 06s.xml">
+      <configuration name="UnitarioTest.player2WinsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SistemaTest - 2019.05.21 at 22h 03m 25s.xml">
-      <configuration name="SistemaTest" configurationId="JUnit" />
+    <history-entry file="UnitarioTest_checkDraw - 2019.05.21 at 23h 24m 08s.xml">
+      <configuration name="UnitarioTest.checkDraw" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SistemaTest - 2019.05.21 at 22h 08m 03s.xml">
-      <configuration name="SistemaTest" configurationId="JUnit" />
+    <history-entry file="UnitarioTest_checkDraw - 2019.05.21 at 23h 26m 56s.xml">
+      <configuration name="UnitarioTest.checkDraw" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SistemaTest - 2019.05.21 at 22h 18m 31s.xml">
-      <configuration name="SistemaTest" configurationId="JUnit" />
+    <history-entry file="UnitarioTest_checkDraw - 2019.05.21 at 23h 27m 01s.xml">
+      <configuration name="UnitarioTest.checkDraw" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SistemaTest - 2019.05.21 at 22h 21m 01s.xml">
-      <configuration name="SistemaTest" configurationId="JUnit" />
+    <history-entry file="UnitarioTest_checkDraw - 2019.05.21 at 23h 39m 22s.xml">
+      <configuration name="UnitarioTest.checkDraw" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SistemaTest - 2019.05.21 at 22h 21m 39s.xml">
-      <configuration name="SistemaTest" configurationId="JUnit" />
+    <history-entry file="UnitarioTest - 2019.05.21 at 23h 39m 53s.xml">
+      <configuration name="UnitarioTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SistemaTest - 2019.05.21 at 22h 22m 42s.xml">
-      <configuration name="SistemaTest" configurationId="JUnit" />
+    <history-entry file="UnitarioTest - 2019.05.21 at 23h 40m 20s.xml">
+      <configuration name="UnitarioTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SistemaTest - 2019.05.21 at 22h 24m 21s.xml">
-      <configuration name="SistemaTest" configurationId="JUnit" />
+    <history-entry file="UnitarioTest - 2019.05.21 at 23h 41m 46s.xml">
+      <configuration name="UnitarioTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24397000" />
+    <option name="totallyTimeSpent" value="18734000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25358167" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09062003" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -381,21 +383,19 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32974428" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38088828" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.1615074" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32974428" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.1372813" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32995495" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Spring" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039744" side_tool="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49960256" weight="0.32998884" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -406,7 +406,44 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Debug" order="10" weight="0.3537361" />
+      <window_info anchor="right" id="Run" order="11" weight="0.33863276" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15559158" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32995495" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50039744" side_tool="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49960256" weight="0.32998884" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -437,141 +474,97 @@
       </map>
     </option>
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Test Dobles" />
-    <MESSAGE value="Test Sistema" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Sistema" />
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="breakpointCondition">
-      <expression>
-        <expression-string>i == 7</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>i == 8</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>i = 8</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mockito/mockito-core/2.23.4/mockito-core-2.23.4.jar!/org/mockito/internal/creation/bytebuddy/MockMethodInterceptor.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/es/codeurjc/ais/tictactoe/WebApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        <state relative-caret-position="126">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/es/codeurjc/ais/tictactoe/Connection.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/es/codeurjc/ais/tictactoe/Player.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="168">
+          <caret line="8" column="51" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/es/codeurjc/ais/tictactoe/TicTacToeHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        <state relative-caret-position="464">
+          <caret line="107" column="28" selection-start-line="107" selection-start-column="28" selection-end-line="107" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="327" selection-start-line="327" selection-end-line="327" />
+        <state relative-caret-position="230">
+          <caret line="205" selection-start-line="205" selection-end-line="205" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/.name">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.14.0/selenium-support-3.14.0.jar!/org/openqa/selenium/support/ui/ExpectedConditions.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="397" column="48" selection-start-line="397" selection-start-column="48" selection-end-line="397" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/es/codeurjc/ais/tictactoe/TicTacToeGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" selection-start-column="34" selection-end-column="34" />
-          <folding>
-            <element signature="e#2977#2978#0" expanded="true" />
-            <element signature="e#3016#3017#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/es/codeurjc/ais/tictactoe/DobleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" column="45" lean-forward="true" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#checkTurnAndResult#0;class#DobleTest#0" />
-          </folding>
+        <state relative-caret-position="273">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/es/codeurjc/ais/tictactoe/Board.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="e#513#514#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="248">
+          <caret line="36" column="41" selection-start-line="35" selection-start-column="33" selection-end-line="36" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.3.RELEASE/spring-boot-dependencies-2.1.3.RELEASE.pom">
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/codeurjc/ais/tictactoe/DobleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-863">
-          <caret line="2623" column="12" selection-start-line="2623" selection-start-column="12" selection-end-line="2623" selection-end-column="12" />
+        <state relative-caret-position="2331">
+          <caret line="124" column="76" selection-start-line="123" selection-start-column="16" selection-end-line="124" selection-end-column="76" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/es/codeurjc/ais/tictactoe/SistemaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="167" column="28" selection-start-line="167" selection-start-column="28" selection-end-line="167" selection-end-column="28" />
+        <state relative-caret-position="1071">
+          <caret line="114" column="9" selection-start-line="114" selection-start-column="9" selection-end-line="114" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#setupClass#0;class#SistemaTest#0" />
-            <element signature="method#setupTest#0;class#SistemaTest#0" />
-            <element signature="method#teardown#0;class#SistemaTest#0" />
-            <element signature="method#initWebApp#0;class#SistemaTest#0" />
-            <element signature="method#checkResult#0;class#SistemaTest#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        <state relative-caret-position="1701">
+          <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/es/codeurjc/ais/tictactoe/TicTacToeGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <element signature="method#addPlayer#0;class#TicTacToeGame#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/es/codeurjc/ais/tictactoe/UnitarioTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#parameters#0;class#UnitarioTest#0" />
+            <element signature="method#init#0;class#UnitarioTest#0" />
+            <element signature="method#player1WinsTest#0;class#UnitarioTest#0" />
+            <element signature="method#player2WinsTest#0;class#UnitarioTest#0" />
+            <element signature="method#checkDraw#0;class#UnitarioTest#0" />
+            <element signature="method#given#0;class#UnitarioTest#0" />
+            <element signature="method#when#0;class#UnitarioTest#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -592,7 +585,6 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -615,7 +607,6 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -652,7 +643,6 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

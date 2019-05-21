@@ -71,7 +71,7 @@ public class TicTacToeGame {
 
 			this.sendEvent(EventType.MARK, value);
 
-			WinnerResult res = this.checkWinner();
+            WinnerResult res = this.checkWinner();
 
 			if (res.win) {
 
