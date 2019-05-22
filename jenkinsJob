@@ -6,8 +6,8 @@ pipeline {
     stages {
         stage("Preparation") {
             steps {
-                sh "cp -r /home/valen/Universidad/3curso/2cuatri/AIS/Practicas/AIS-Testing/src/ ./"
-                sh "cp /home/valen/Universidad/3curso/2cuatri/AIS/Practicas/AIS-Testing/pom.xml ./"
+                sh "cp -r /home/ais/a.quesada.2016-c.novella.2016/src/ ./"
+                sh "cp /home/ais/a.quesada.2016-c.novella.2016/pom.xml ./"
             }
         }
         stage("Test") {
