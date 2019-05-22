@@ -61,8 +61,8 @@ public class SistemaTest
 
     public void initWebApp()
     {
-        driver1.get("http://localhost:8080/");
-        driver2.get("http://localhost:8080/");
+        driver1.get("http://localhost:8083/");
+        driver2.get("http://localhost:8083/");
 
         WebElement nameInput1 = driver1.findElement(By.id("nickname"));
         WebElement nameInput2 = driver2.findElement(By.id("nickname"));
